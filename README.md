@@ -120,7 +120,8 @@ Bounce rate represents the percentage of website sessions where users visit only
 **_📌You need to show your understanding/ thinking process when you do this analysis. In the above exp, I explain the meaning of Bounce Rate in Marketing performance analysis - which demonstrates my understanding about the metric & its role in my projects/ flow of analysis"_**
 **_📌If the task is just simple as "Remove duplication, Replace null value.."--> Summarize all steps related to Transforming & Cleaning data steps in a group & explain shortly at once the reason why you need that transformation_**
 
-👉🏻 
+👉🏻
+```
 SELECT
   format_date("%Y%m", parse_date("%Y%m%d", date)) as month,
   SUM(totals.visits) AS visits,
@@ -130,6 +131,7 @@ FROM `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
 WHERE _TABLE_SUFFIX BETWEEN '0101' AND '0331'
 GROUP BY 1
 ORDER BY 1;
+```
 
  **_If your result is a very long table with many records, only show top 5/10 and bottom 5/10 rows, or records that relevant to the insights/ observation below_**
 
