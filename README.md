@@ -1,7 +1,4 @@
-# UNIGAP - PORTFOLIO BUILDING MODULE - SQL/ PYTHON PROJECT
-
-🔥Use this template as an outline for your SQL/ Python Github projects - which is task by task type of projects. 
-Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
+# TRAN DUY ANH - SQL PROJECT 1
 
 Updated: Sep'26
 
@@ -161,6 +158,7 @@ ORDER BY 1;
 | Sep 2013 | Wheels              |           1 |            1 |        83.30 |
 
 *A summary of the full results. The complete dataset is available in the repository.*
+
 
 👉🏻 Finally, explain your observations/ findings from the results 
   
