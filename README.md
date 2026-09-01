@@ -3,7 +3,7 @@
 🔥Use this template as an outline for your SQL/ Python Github projects - which is task by task type of projects. 
 Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
-Updated: Nov'25
+Updated: Sep'26
 
 ---
 ![KPMG Transaction Analysis](https://github.com/Dorothy-Ho-Vy/Sample_SQL_Python_template/blob/4dee6ff56077b90b1aea82e8517136f7185a77a3/Blue%20White%20Modern%20Payment%20Gateway%20Service%20Twitter%20Post.png.crdownload)
@@ -21,9 +21,9 @@ _+ Domain: Domain/ Industry that this projects focus on --> a medium size bikes 
 
 **_📌You need to show that your projects are applicable to real business use cases, for a particular industry, not just "learning projects"_**
   
-Author: [Your Name]  
+Author: Tran Duy Anh  
 Date: YYYY-MM-DD  
-Tools Used: SQL/ Python  
+Tools Used: SQL 
 
 ---
 
