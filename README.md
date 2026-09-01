@@ -1,4 +1,4 @@
-# TRAN DUY ANH - SQL PROJECT 1
+# TRAN DUY ANH - SQL PROJECT 1 - E-COMMERCE
 
 Updated: Sep'26
 
@@ -129,12 +129,9 @@ WHERE _TABLE_SUFFIX BETWEEN '0101' AND '0331'
 GROUP BY 1
 ORDER BY 1;
 ```
-
- **_If your result is a very long table with many records, only show top 5/10 and bottom 5/10 rows, or records that relevant to the insights/ observation below_**
-
 *_Example_*
 
-### Project Results:
+### Task 1 Results:
 
 | Period   | Name                | Count Items | Count Orders | Sales        |
 |:---------|:--------------------|------------:|-------------:|-------------:|
@@ -156,6 +153,12 @@ ORDER BY 1;
 | Jul 2013 | Wheels              |           4 |            1 |       698.63 |
 | Jun 2013 | Wheels              |           3 |            1 |       450.91 |
 | Sep 2013 | Wheels              |           1 |            1 |        83.30 |
+
+| month  | visits       | pageviews   | transactions |
+|:-------|:-------------|------------:|-------------:|
+| 201701 | 64694        |      257708 |          713 |
+| 201702 | 62192        |      233373 |          733 |
+| 201703 | 69931        |      259522 |          993 |
 
 *A summary of the full results. The complete dataset is available in the repository.*
 
